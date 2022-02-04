@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignement 2</title>
+    <title>Assignement 2 -Ilyass SOUHAIL</title>
+</head>
      <style>
          body
          {
@@ -38,7 +39,7 @@
          }
 
      </style>
-</head>
+
 <body>
     <div> 
        <h1>Assignement 2</h1>
